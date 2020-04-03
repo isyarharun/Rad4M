@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ToDoAPI\Application.Context\bin\Debug\netcoreapp2.1\Application.Context.deps.json
+C:\Users\user\source\repos\ToDoAPI\Application.Context\bin\Debug\netcoreapp2.1\Application.Context.dll
+C:\Users\user\source\repos\ToDoAPI\Application.Context\bin\Debug\netcoreapp2.1\Application.Context.pdb
+C:\Users\user\source\repos\ToDoAPI\Application.Context\bin\Debug\netcoreapp2.1\Application.Model.dll
+C:\Users\user\source\repos\ToDoAPI\Application.Context\bin\Debug\netcoreapp2.1\Application.Model.pdb
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.AssemblyInfo.cs
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.csproj.CopyComplete
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.dll
+C:\Users\user\source\repos\ToDoAPI\Application.Context\obj\Debug\netcoreapp2.1\Application.Context.pdb

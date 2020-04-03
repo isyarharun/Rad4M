@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ToDoAPI\Application.Model\bin\Debug\netcoreapp2.1\Application.Model.deps.json
+C:\Users\user\source\repos\ToDoAPI\Application.Model\bin\Debug\netcoreapp2.1\Application.Model.dll
+C:\Users\user\source\repos\ToDoAPI\Application.Model\bin\Debug\netcoreapp2.1\Application.Model.pdb
+C:\Users\user\source\repos\ToDoAPI\Application.Model\obj\Debug\netcoreapp2.1\Application.Model.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ToDoAPI\Application.Model\obj\Debug\netcoreapp2.1\Application.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ToDoAPI\Application.Model\obj\Debug\netcoreapp2.1\Application.Model.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ToDoAPI\Application.Model\obj\Debug\netcoreapp2.1\Application.Model.AssemblyInfo.cs
+C:\Users\user\source\repos\ToDoAPI\Application.Model\obj\Debug\netcoreapp2.1\Application.Model.dll
+C:\Users\user\source\repos\ToDoAPI\Application.Model\obj\Debug\netcoreapp2.1\Application.Model.pdb
